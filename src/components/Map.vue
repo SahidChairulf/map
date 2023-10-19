@@ -3,7 +3,7 @@
         <iframe title="" aria-label="Map" id="datawrapper-chart-Uez0V" src="https://datawrapper.dwcdn.net/Uez0V/3/"
             scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="520"
             data-external="1"
-            class="w-auto h-screen bg-black mt-16 mr-12 items-center justify-center text-white">
+            class="w-auto h-screen bg-black items-center justify-center text-white">
         </iframe>
     </div>
 </template>
